@@ -24,6 +24,8 @@ In this analysis, we helped perform exploratory data analysis for PyBer - a ride
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/92613639/142994659-2dab5f3f-c3d9-41fa-b261-f2e4457ef9c3.png)
 
+4. Based on the above chart, for dates between 01/01/2019 and 04/28/2019, the fluctuations in fare were fairly consistent regardless of city type (e.g. all lines spike around the end of February).
+5. All of the lines, though they fluctuate, never cross and maintain a somewhat stable fare across the shown time.
 
 ## Summary
 Based of the results presented above, please see the following business recommendations to the CEO for addressing disparities among different types of cities.
