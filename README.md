@@ -29,6 +29,6 @@ In this analysis, we helped perform exploratory data analysis for PyBer - a ride
 
 ## Summary
 Based of the results presented above, please see the following business recommendations to the CEO for addressing disparities among different types of cities.
-1. A
+1. The three city types presented in this analysis appear to be essentially individual markets. Urban cities clearly have more people, and therefore higher supply and demand of riders and drivers; whereas rural cities have fewer people, and therefore lower supply and demand, also resulting in higher costs as well as higher pay per ride for the drivers. Based on this, you should treat the 3 city types as seperate markets and may need to come up with unique strategies for each - solutions may not be one-size-fits-all.
 2. A
 3. A
